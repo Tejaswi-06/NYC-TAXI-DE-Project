@@ -66,7 +66,7 @@ The pipeline follows a layered approach:
 
 ---
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates the successful implementation of an end-to-end data engineering pipeline on Azure using the Medallion Architecture. Raw NYC Taxi data was ingested using Azure Data Factory with automated and parameterized pipelines, enabling efficient and scalable data loading.
 
@@ -76,7 +76,7 @@ Overall, this project showcases practical experience in building automated data 
 
 ---
 
-👤 Author
+## 👤 Author
 
 Tejaswi
 
