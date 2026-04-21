@@ -18,10 +18,10 @@ The pipeline follows a layered approach:
 
 ## 🛠️ Tech Stack
 
-- Azure Data Factory – Data ingestion & orchestration  
-- Azure Data Lake Storage – Storage for Bronze, Silver, Gold layers  
-- Azure Databricks – Data processing using PySpark & SQL  
-- Delta Lake – Optimized storage format  
+- **Azure Data Factory** – Data ingestion & orchestration  
+- **Azure Data Lake Storage** – Storage for Bronze, Silver, Gold layers  
+- **Azure Databricks** – Data processing using PySpark & SQL  
+- **Delta Lake** – Optimized storage format  
 
 ---
 
